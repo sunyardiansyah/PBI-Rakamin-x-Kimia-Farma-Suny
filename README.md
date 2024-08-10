@@ -11,22 +11,23 @@ Link Dashboard Performance Analytics Kimia Farma Business Year 2020 - 2023 Looke
 Informasi Hasil dari Query sebagai berikut :
 Query 1 – Membuat Tabel Analisa
 
-Query 2 – Analisa Agreggasi Income
-  •	Jumlah pendapatan dan jumlah keuntungan berdasarkan produk
-  •	Jumlah Pendapatan dan Keuntungan total berdasarkan kota
-  •	Rata-rata Pendapatan dan Keuntungan per kantor cabang berdasarkan kota
-  •	Jumlah Pendapatan dan Keuntungan total berdasarkan Provinsi
-  •	Rata-rata Pendapatan dan Keuntungan per kantor cabang berdasarkan provinsi
+Query 2 – Analisa Agreggasi Income  
+  •	Jumlah pendapatan dan jumlah keuntungan berdasarkan produk  
+  •	Jumlah Pendapatan dan Keuntungan total berdasarkan kota  
+  •	Rata-rata Pendapatan dan Keuntungan per kantor cabang berdasarkan kota  
+  •	Jumlah Pendapatan dan Keuntungan total berdasarkan Provinsi  
+  •	Rata-rata Pendapatan dan Keuntungan per kantor cabang berdasarkan provinsi  
 
-Query 3 – Analisa Agreggasi Jumlah Penjualan Obat
-  •	Jumlah produk terjual per produk
-  •	Penjualan Obat berdasarkan kantor cabang
-  •	Penjualan Obat berdasarkan kota
-  •	Penjualan Obat berdasarkan provinsi
+Query 3 – Analisa Agreggasi Jumlah Penjualan Obat  
+  •	Jumlah produk terjual per produk  
+  •	Penjualan Obat berdasarkan kantor cabang  
+  •	Penjualan Obat berdasarkan kota  
+  •	Penjualan Obat berdasarkan provinsi  
 
-Query 4 – Analisa Timestamp
-  •	Pendapatan dan keuntungan berdasarkan bulan pada tahun tertentu
-  •	Pendapatan dan keuntungan berdasarkan tahun tertentu
-  •	Jumlah transaksi berdasarkan bulan pada tahun tertentu
-  •	Jumlah transaksi berdasarkan tahun tertentu
-  •	Jumlah transaksi berdasarkan bulan tanpa melihat tahun
+Query 4 – Analisa Timestamp  
+  •	Pendapatan dan keuntungan berdasarkan bulan pada tahun tertentu  
+  •	Pendapatan dan keuntungan berdasarkan tahun tertentu  
+  •	Jumlah transaksi berdasarkan bulan pada tahun tertentu  
+  •	Jumlah transaksi berdasarkan tahun tertentu  
+  •	Jumlah transaksi berdasarkan bulan tanpa melihat tahun  
+  
